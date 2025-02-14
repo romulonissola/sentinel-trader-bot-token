@@ -2,6 +2,6 @@
   "name": "Sentinel Trader Bot",
   "symbol": "SENTBOT",
   "description": "Sentinel App",
-  "image": "https://raw.githubusercontent.com/romulonissola/sentinel-trader-bot-token/34e66a2552c915861c534fa9c70d23b2baf122a3/token-image.png",
+  "image": "https://raw.githubusercontent.com/romulonissola/sentinel-trader-bot-token/main/token-image.png",
   "external_url": "https://sentineltraderbot.com"
 }
